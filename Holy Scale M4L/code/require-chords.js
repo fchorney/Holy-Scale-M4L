@@ -128,7 +128,7 @@ exports.key_names = {
 		Eb: ['Gb', 'Ab', 'Bb', 'Cb', 'Db', 'Eb', 'F'],
 		Bb: ['Db', 'Eb', 'F',  'Gb', 'Ab', 'Bb', 'C'],
 		F:  ['Ab', 'Bb', 'C',  'Db', 'Eb', 'F',  'G'],
-		c:  ['Eb', 'F',  'G',  'Ab', 'Bb', 'C',  'D'],
+		C:  ['Eb', 'F',  'G',  'Ab', 'Bb', 'C',  'D'],
 		G:  ['Bb', 'C',  'D',  'Eb', 'F',  'G',  'A'],
 		D:  ['F',  'G',  'A',  'Bb', 'C',  'D',  'E']
 	}
