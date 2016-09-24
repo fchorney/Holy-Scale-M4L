@@ -3,7 +3,7 @@
 I wanted to get into Max For Live, so I wanted to find a project to start with.  
 What I decided was I was going to re-make the "Holy Scale" Ableton Live racks that were created by 8bitbandit.  
 
-You can find his website here: http://www.8bitbandit.com/
+You can find his website here: http://www.8bitbandit.com/  
 You can find his original Holy Scale racks here: https://www.ableton.com/en/blog/holy-scale-chord-progression-rack-8bitbandit/
 
 ## Changes
@@ -20,7 +20,7 @@ I will try and squash any bugs that may arise and release updates that fix them.
 further, but if anybody has any good ideas on functions I may be able to add then I'm all ears. I would definitely love to expand
 on this further.
 
-## Attribution
+## Thanks
 
 I want to thank 8bitbandit for creating the original Holy Scale racks in the first place. Without them I would have not been able 
 to compose some of my favourite original tracks. The tools helped me immensely. I also want to thank him for going through the trouble
