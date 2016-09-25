@@ -109,6 +109,9 @@ var notemod = function () {
 	log.debug("notemod ", key_selectors);
 };
 
+/* Accept a key mod trigger
+ * Will trigger when the key knob is changed
+ */
 var keymod = function (key) {
 	log.info("keymod ", key);
 	valid_keys = chord_module.key_signatures[selected_mode][key];
@@ -135,6 +138,9 @@ var get_key_letter = function (midi_note) {
 	return all_keys[midi_note % 12];
 };
 
+/* Output the led value for
+ * the note played
+ */
 var led_out = function (key_index, velocity) {
 	log.verbose("LED Out ", key_index, " ", velocity);
 	outlet(1, [key_index, velocity]);

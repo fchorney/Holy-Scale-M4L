@@ -119,17 +119,17 @@ exports.key_names = {
 		F:  ['F',  'G',  'A',  'Bb', 'C',  'D',  'E']
 	},
 	minor: {
-		A:  ['C',  'D',  'E',  'F',  'G',  'A',  'B'],
-		E:  ['G',  'A',  'B',  'C',  'D',  'E',  'F#'],
-		B:  ['D',  'E',  'F#', 'G',  'A',  'B',  'C#'],
-		Gb: ['A',  'B',  'C#', 'D',  'E',  'F#', 'G#'],
-		Db: ['E',  'F#', 'G#', 'A',  'B',  'C#', 'D#'],
-		Ab: ['B',  'C#', 'D#', 'E',  'F#', 'G#', 'A#'],
-		Eb: ['Gb', 'Ab', 'Bb', 'Cb', 'Db', 'Eb', 'F'],
-		Bb: ['Db', 'Eb', 'F',  'Gb', 'Ab', 'Bb', 'C'],
-		F:  ['Ab', 'Bb', 'C',  'Db', 'Eb', 'F',  'G'],
-		C:  ['Eb', 'F',  'G',  'Ab', 'Bb', 'C',  'D'],
-		G:  ['Bb', 'C',  'D',  'Eb', 'F',  'G',  'A'],
-		D:  ['F',  'G',  'A',  'Bb', 'C',  'D',  'E']
+		A:  ['C',   'D',  'E',  'F',   'G',  'A',  'B'],
+		E:  ['G',   'A',  'B',  'C',   'D',  'E',  'F#'],
+		B:  ['D',   'E',  'F#', 'G',   'A',  'B',  'C#'],
+		Gb: ['Bbb', 'Cb', 'Db', 'Ebb', 'Fb', 'Gb', 'Ab'],
+		Db: ['Fb',  'Gb', 'Ab', 'Bbb', 'Cb', 'Db', 'Eb'],
+		Ab: ['Cb',  'Db', 'Eb', 'Fb',  'Gb', 'Ab', 'Bb'],
+		Eb: ['Gb',  'Ab', 'Bb', 'Cb',  'Db', 'Eb', 'F'],
+		Bb: ['Db',  'Eb', 'F',  'Gb',  'Ab', 'Bb', 'C'],
+		F:  ['Ab',  'Bb', 'C',  'Db',  'Eb', 'F',  'G'],
+		C:  ['Eb',  'F',  'G',  'Ab',  'Bb', 'C',  'D'],
+		G:  ['Bb',  'C',  'D',  'Eb',  'F',  'G',  'A'],
+		D:  ['F',   'G',  'A',  'Bb',  'C',  'D',  'E']
 	}
 };
